@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # doctor-website
-Déploiement d'un site internet pour Docteurs avec des tests de manière automatisé
+Déploiement automatique d'un site Statique avec GitHub, CodeBuild et S3.
+Il s'agit d'un site pour Docteurs.
 =======
 # doctor-website
 >>>>>>> 6f7ede3 (Initial commit)
