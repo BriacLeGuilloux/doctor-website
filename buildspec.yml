@@ -9,7 +9,7 @@ phases:
       - echo start prebuild and end it    
   build:
     commands:
-      - echo Running buuild
+      - echo Running build
   post_build:
     commands:
       - echo Build completed successfully.
